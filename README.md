@@ -23,6 +23,6 @@ Please contact [Yukyung Choi](mailto:ykchoi@rcv.kaist.ac.kr) with questions and 
 
 
 ## Website Log
-01.30.2016: The "KAIST Multi-spectral Recognition Dataset in day and night" webpages open
+01.30.2016: The "KAIST Multi-spectral Recognition Dataset in day and night" webpages beta test (not public open)
 
 
