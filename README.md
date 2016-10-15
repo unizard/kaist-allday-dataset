@@ -6,7 +6,7 @@ This paper presents all-day dataset of paired a multi-spectral 2d vision (RGB-Th
 ## Draft Paper
 + [Draft](https://www.dropbox.com/s/ysmf0sher600rdr/IJRR_draft.pdf?dl=0)
 
-## Papers
+## Related Papers (using this dataset)
 + [Report] Multispectral Transfer Network: the shining in the night
 + [Report] A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network
 + [IROS2016] Thermal Image Enhancement using Convolution Neural Network
