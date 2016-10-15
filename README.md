@@ -6,6 +6,17 @@ This paper presents all-day dataset of paired a multi-spectral 2d vision (RGB-Th
 ## Draft Paper
 + [Draft](https://www.dropbox.com/s/ysmf0sher600rdr/IJRR_draft.pdf?dl=0)
 
+## Papers
++ [Report] Multispectral Transfer Network: the shining in the night
++ [Report] A New Perspective on Thermal Imaging Enhancement using Convolution Neural Network
++ [IROS2016] Thermal Image Enhancement using Convolution Neural Network
++ [IV2016] Thermal-Infrared based Drivable Region Detection
++ [URAI2015] Geometrical Calibration of Multispectral Calibration
++ [URAI2015] Low-cost Synchronization for Multispectral Cameras
++ [CVPR2015] Multispectral Pedestrian Detection: Benchmark Dataset and Baseline
++ [CVPRW2015] All-Day Visual Place Recognition: Benchmark Dataset and Baseline
+
+
 ## Data & software download
 + [Thumbnail data](https://sites.google.com/site/ykchoicv/multispectral_ijrr_thumbnail)
 + [Raw data](https://sites.google.com/site/ykchoicv/multispectral_ijrr_raw)
